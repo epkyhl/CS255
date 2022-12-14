@@ -10,4 +10,4 @@ I would say my most comfortable part of the project was creating the diagrams an
 ### What I would change
 Though I included it into what I did well, the piece I would be most likely to revise would be one of my diagrams, specifically the class diagram. While I am still happy with how it each of the diagrams turned out, I feel like I could have included a lot more in that diagram specifically. I felt as if I left out many potential relationships and developing concepts like inharitance where one parent class can share its methods with the children classes. This would have probably been most useful when considering the different types of users in the system like customers, driving instructors, or the different types of administration needed.
 
-### User's Needs
+### User's Needs...
